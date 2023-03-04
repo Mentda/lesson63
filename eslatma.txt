@@ -1,0 +1,13 @@
+_____________________________________________
+.idea
+*.iws
+*.iml
+*.ipr
+
+shular git ga qo'shilmaydi
+
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!/src/main//target/
+!/src/test//target/
+______________________________________________
